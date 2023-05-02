@@ -21,7 +21,7 @@ gTTS: very good quality, but needs online conection to google translator service
 ### Installation notes
 TODO: Translate it to english
 
-[Guia paso a paso] (https://docs.google.com/document/d/187sY6vXnVOXRmaiwag7ak_JI8mYdaYnmFi9CFaIGjSo/edit?usp=sharing)
+[Guia paso a paso (in spanish only)](https://docs.google.com/document/d/187sY6vXnVOXRmaiwag7ak_JI8mYdaYnmFi9CFaIGjSo/edit?usp=sharing)
 
 TODO: Video tutorial
 
