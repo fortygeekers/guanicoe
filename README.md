@@ -6,7 +6,9 @@ It's mainly based on the following projects:
 
 [LlaMa](https://github.com/ggerganov/llama.cpp)
 
-[Vicuna-13B](https://huggingface.co/4bit/vicuna-13B-1.1-GPTQ-4bit-128g-GGML/resolve/main/vicuna-13B-1.1-GPTQ-4bit-128g.GGML.bin)
+[Vicuna-13B](https://vicuna.lmsys.org/)
+
+[download link for Vicuna-13B](https://huggingface.co/4bit/vicuna-13B-1.1-GPTQ-4bit-128g-GGML/resolve/main/vicuna-13B-1.1-GPTQ-4bit-128g.GGML.bin)
 
 [OpenAI Whisper](https://github.com/openai/whisper)
 
